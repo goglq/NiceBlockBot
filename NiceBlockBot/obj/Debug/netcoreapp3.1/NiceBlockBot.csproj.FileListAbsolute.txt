@@ -1,5 +1,4 @@
 G:\Projects\practices\NiceBlockBot\NiceBlockBot\bin\Debug\netcoreapp3.1\NiceBlockBot.exe
-G:\Projects\practices\NiceBlockBot\NiceBlockBot\obj\Debug\netcoreapp3.1\NiceBlockBot.csprojAssemblyReference.cache
 G:\Projects\practices\NiceBlockBot\NiceBlockBot\obj\Debug\netcoreapp3.1\NiceBlockBot.AssemblyInfoInputs.cache
 G:\Projects\practices\NiceBlockBot\NiceBlockBot\obj\Debug\netcoreapp3.1\NiceBlockBot.AssemblyInfo.cs
 G:\Projects\practices\NiceBlockBot\NiceBlockBot\bin\Debug\netcoreapp3.1\NiceBlockBot.deps.json
