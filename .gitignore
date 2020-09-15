@@ -1,5 +1,3 @@
-NiceBlockBot/bin
+NiceBlockBot/bin/*.json
 
 NiceBlockBot/obj
-
-.vs
